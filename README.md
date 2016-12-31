@@ -9,9 +9,9 @@ An Xcode theme that colour-matches the wonderful gruvbox theme for vim! [The gru
 1. Close Xcode.
 1. Open Finder then from the menu bar choose `Go` -> `Go to folder...`.
 1. Paste `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` into the pop-up to open your Xcode themes folder.
-1. Copy the unzipped `gruvbox.dvtcolortheme` file into the folder.
+1. Copy the unzipped `Gruvbox.dvtcolortheme` file into the folder.
 1. Open Xcode and go to Xcode > `Preferences...`
-1. Under `Fonts & Colors`, choose `WWDC 2016`.
+1. Under `Fonts & Colors`, choose `Gruvbox`.
 
 _**Note:** The theme is set to use SF Mono (San Francisco Mono). The font used in the screenshot is [DejaVu Sans Mono for Powerline](https://github.com/powerline/fonts/tree/master/DejaVuSansMono) if you want to use it._
 
